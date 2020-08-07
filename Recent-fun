@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Recent summer activities.</title>
+</head>
+<style>
+.summer{
+text-align: center;
+color: darkorange;
+background-color: yellow;
+font-family: Times-New-Roman;
+border-style: double;
+border-width: 5px;
+margin: 20px;
+}
+.fun{
+text-align: center;
+color: yellow;
+background-color: blue;
+font-family: Times-New-Roman;
+border-style: double;
+border-width: 5px;
+margin: 20px;
+}
+.meh{
+border-style: double;
+border-width: 10px;
+color: red;
+}
+</style>
+<body style="background-color: lightgreen">
+<div class="meh">
+<div class="fun">
+<h1>Recent summer activities.</h1>
+</div>
+<br>
+<div class="summer">
+<p>Recently, Summer begun, and it's been a real blast I've been studying,
+but also having a lot of fun,and I also do many fun things. Fun outdoor things
+That make me feel like this lockdown never started. I've been riding my bike, and
+doing al lot of different exercises. It makes me feel good, and I also helps my body 
+become strong, and good.</p>
+</div>
+<br>
+<div class="fun">
+<p>Down below are things that I do, and will do throughout the summer.</p>
+<br>
+<p>The things I currently do.</p>
+<ul>
+<li>Exercise with my brother and mom.</li>
+<li>Ride my bike along the cul-de-sac. (Once I did 131 laps!)</li>
+</ul>
+</div>
+<br>
+<div class="fun">
+<p>Next are the things I want to, and will do throughout the summer.</p>
+<ul>
+<li>Play sports with my family</li>
+<li>Go on more frequent hikes</li>
+<li>Spend more quality time with my parents</li>
+</ul>
+</div>
+<br>
+<div class="summer">
+<p>I have been having lots of fun this summer, and I can't wait to have more. I exercise and 
+study, but at the same time I have a lot of fun! I can't wait to have more throughout this 
+summer. See you all later!
+<br>
+Bye!!! :D</p>
+</div>
+</body>
+</html>
